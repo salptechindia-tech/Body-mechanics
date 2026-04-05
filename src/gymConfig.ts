@@ -3,7 +3,7 @@ import { GymConfig } from "./types";
 export const gymConfig: GymConfig = {
   brand: {
     name: "Body Mechanics",
-    logo: "/xova.webp",
+    logo: "/Gemini_Generated_Image_gs06fcgs06fcgs06.png",
     tagline: "LIFESTYLE AND FITNESS STUDIO",
     description: "At Body Mechanics, we believe fitness is a science. Our modern facilities and expert trainers are designed to help you optimize your physical potential.",
   },
